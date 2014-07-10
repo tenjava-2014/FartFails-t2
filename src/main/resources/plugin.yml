@@ -1,0 +1,3 @@
+name: FartFails-t2
+main: com.tenjava.entries.FartFails.t2.TenJava
+version: '${project.version}'
